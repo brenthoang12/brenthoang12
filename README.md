@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I’m currently working on a hotdog identifier from Silicon Valley movie
+- I’m currently reading "Computer Vision: Algorithms and Applications" by Richard Szeliski
+
 <!--
 **brenthoang12/brenthoang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
