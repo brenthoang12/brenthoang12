@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I’m currently working on a hotdog identifier from Silicon Valley movie
+- I’m currently working on push up counter app.
 - I’m currently reading "Computer Vision: Algorithms and Applications" by Richard Szeliski
 
 <!--
