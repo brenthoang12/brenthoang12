@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I’m currently working on push up counter app.
-- I’m currently reading "Computer Vision: Algorithms and Applications" by Richard Szeliski
+- I’m currently reading "Computer Vision: Algorithms and Applications" by Richard Szeliski and "Sapiens: A Brief History of Humankind" by Yuval Noah Harari
 
 <!--
 **brenthoang12/brenthoang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
