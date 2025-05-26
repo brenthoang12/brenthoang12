@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- I’m currently working on push up counter app.
-- I’m currently reading "Computer Vision: Algorithms and Applications" by Richard Szeliski and "PPP Using C++" by Bjarne Stroustrup
+- I’m currently working on a robotics project.
+- I’m currently reading learning C++. 
 
 <!--
 **brenthoang12/brenthoang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
