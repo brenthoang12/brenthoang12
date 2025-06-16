@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I’m currently working on a robotics project.
-- I’m currently reading learning C++. 
+- I’m learning C++. 
 
 <!--
 **brenthoang12/brenthoang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
